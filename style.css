@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#apps{
+    background:linear-gradient(red 0%, orange 100%);
+}
+#juegos{
+    background:linear-gradient(yellow 0%, rgb(34, 235, 34) 100%);
+}
+#bots{
+    background:linear-gradient(rgb(182, 250, 210) 0%, rgb(163, 163, 241) 100%)
+}
